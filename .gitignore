@@ -10,3 +10,7 @@ npm-debug.log*
 
 lib/jsdom/living/generated/**/*.js
 lib/jsdom/browser/js-globals.json
+
+# bq build
+dist/
+.parcel-cache
